@@ -1,0 +1,47 @@
+{
+  "signin": {
+    "accessToken": "shjdfbwifIHBYVHUfughkguyGYGUY"
+  },
+  "profile": {
+    "name": "Mario Bianchi",
+    "address": "Via XYZ 123",
+    "email": "info@rossi.it"
+  },
+  "invoices": [
+    {
+      "subject": "sdhd",
+      "date": "2020-09-13",
+      "items": [
+        {
+          "text": "dfdfuth",
+          "price": 3333
+        }
+      ],
+      "total": 3333,
+      "invoiceNumber": 1,
+      "id": 1
+    }
+  ],
+  "clients": [
+    {
+      "name": "nn",
+      "id": 1
+    },
+    {
+      "name": "ciao",
+      "id": 2
+    },
+    {
+      "name": "nooo",
+      "id": 3
+    },
+    {
+      "name": "hello",
+      "id": 4
+    },
+    {
+      "name": "nooo",
+      "id": 5
+    }
+  ]
+}
